@@ -1,3 +1,3 @@
-module github.com/godlykmathews/multi
+module github.com/godlykmathews/multix_go
 
 go 1.25.7
